@@ -1,0 +1,8 @@
+prefix=/home/arijit/AK_Progs/image_transport_ws/devel
+
+Name: it_1
+Description: Description of it_1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/arijit/AK_Progs/image_transport_ws/devel/lib 
+Requires: cv_bridge image_transport roscpp sensor_msgs std_msgs
